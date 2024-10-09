@@ -30,6 +30,10 @@
 ------------ | ------------- | -------------
 Все хорошо| ялляляля| учебная практика
 что то еще | и еще| я не могу ничего придумать
+#### Картинка<br>
+<p align="center">
+  <img width="400" height="250" src="[https://github.com/blademoon/Markdown/blob/main/Picture/cat.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqTAypglw5DAFhVeLwMzdOMLA0D-wOyx8rvA&s)">
+</p>
 
 
 
