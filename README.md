@@ -4,7 +4,7 @@
 1. Заходим на официальный сайт - https://git-scm.com/
 2. Нажимаем на кнопку установки
 <p align="center">
-  <img width="400" height="250" src="img.jpg">
+  <img width="400" height="250" src="img.png">
 </p>
 3. Выбираем нужную нам версию
 
