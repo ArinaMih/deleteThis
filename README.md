@@ -3,7 +3,9 @@
 #### Шаг 1. Установка GIT
 1. Заходим на официальный сайт - https://git-scm.com/
 2. Нажимаем на кнопку установки
-![Image of cat](img.png)
+<p align="center">
+  <img width="400" height="250" src="img.jpg">
+</p>
 3. Выбираем нужную нам версию
 
    
